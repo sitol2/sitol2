@@ -29,10 +29,10 @@ An inclusive AI-driven platform for digital fire safety, risk assessment, and co
 
 ### 🚀 Other Featured Work
 <div align="center">
-  <a href="https://github.com/sitol2/Video-Meeting-Project">
+  <a href="https://github.com/mclangstrong/Admin-and-Exit-Interview/tree/main">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sitol2&repo=Video-Meeting-Project&theme=radical&hide_border=true" width="48%" />
   </a>
-  <a href="https://github.com/sitol2/cmsc-311-final-project">
+  <a href="https://github.com/mclangstrong/Oral-Detection">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sitol2&repo=cmsc-311-final-project&theme=radical&hide_border=true" width="48%" />
   </a>
 </div>
