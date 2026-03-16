@@ -1,18 +1,23 @@
 <div align="center">
-# Hi I'm Keinji Velina
-<div/>
-A Computer Science student uniquely qualified in Intelligent Systems, building AI models and web applications. Welcome to my digital workspace.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=3670A0&center=true&vCenter=true&width=600&lines=Hi,+I'm+Keinji+Velina+👋" alt="Typing SVG" />
+</div>
 
-<div align="center">### 👨‍💻 A bit about me <div/>
-  
+<p align="center">
+  A Computer Science student uniquely qualified in Intelligent Systems, building AI models and web applications. Welcome to my digital workspace.
+</p>
+
+<h3 align="center">👨‍💻 A bit about me</h3>
+
 - 🔭 I’m currently building **Berong's E-Learning Platform**, an AI-driven platform for fire safety.
 - 🌱 I am a determined learner committed to continuous professional growth, currently holding a GDG PUP DataCamp Scholarship.
 - 💡 My expertise bridges backend web development and Artificial Intelligence, with experience deploying models like U-Net, YOLOv11s, and custom BERT.
 - 📫 How to reach me: [keinjivelina15@gmail.com](mailto:keinjivelina15@gmail.com) | [LinkedIn](https://www.linkedin.com/in/keinji-velina-423736326)
 
-<div align="center"> ### 🌟 Spotlight Project: Berong's E-Learning Platform
+<h3 align="center">🌟 Spotlight Project: Berong's E-Learning Platform</h3>
 
-**[🌐 Live Site: bfpscberong.app](https://bfpscberong.app)** <div/>
+<p align="center">
+  <strong><a href="https://bfpscberong.app">🌐 Live Site: bfpscberong.app</a></strong>
+</p>
 
 An inclusive AI-driven platform for digital fire safety, risk assessment, and community preparedness, developed for the BFP Sta. Cruz station. 
 
@@ -20,16 +25,19 @@ An inclusive AI-driven platform for digital fire safety, risk assessment, and co
 - **The AI:** Integrates reinforcement learning (PPO algorithms) and computer vision (U-Net architecture) for dynamic evacuation simulations.
 - **The Impact:** Delivers role-based educational content, interactive games, and real-time tools for kids, adults, and professionals.
 
-<a href="https://bfpscberong.app" target="_blank">
-  <img src="https://img.shields.io/badge/View_Live_Site-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Site" />
-</a>
-<a href="https://github.com/Toneejake/berong-safescape" target="_blank">
-  <img src="https://img.shields.io/badge/View_Source_Code-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
-</a>
+<div align="center">
+  <a href="https://bfpscberong.app" target="_blank">
+    <img src="https://img.shields.io/badge/View_Live_Site-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Site" />
+  </a>
+  <a href="https://github.com/Toneejake/berong-safescape" target="_blank">
+    <img src="https://img.shields.io/badge/View_Source_Code-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+  </a>
+</div>
 
 ---
 
-<div align="center"> ### 🚀 Other Featured Work </div>
+<h3 align="center">🚀 Other Featured Work</h3>
+
 <div align="center">
   <a href="https://github.com/mclangstrong/Admin-and-Exit-Interview/tree/main">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mclangstrong&repo=Admin-and-Exit-Interview&theme=radical&hide_border=true" width="48%" />
@@ -39,8 +47,9 @@ An inclusive AI-driven platform for digital fire safety, risk assessment, and co
   </a>
 </div>
 
-<div align="center"> ### 🛠️ My Tech Stack <div/>
-<p align="left">
+<h3 align="center">🛠️ My Tech Stack</h3>
+
+<p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
@@ -50,7 +59,8 @@ An inclusive AI-driven platform for digital fire safety, risk assessment, and co
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-<div align="center"> ### 🚀 Featured Projects <div/>
+<h3 align="center">🚀 Featured Projects</h3>
+
 <div align="center">
   <a href="https://github.com/Toneejake/berong-safescape">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sitol2&repo=Fire-Safety-Chatbot&theme=radical&hide_border=true" width="48%" />
@@ -60,11 +70,12 @@ An inclusive AI-driven platform for digital fire safety, risk assessment, and co
   </a>
 </div>
 
-<div align="center"> ### 📊 GitHub Activity & Stats <div/>
+<h3 align="center">📊 GitHub Activity & Stats</h3>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sitol2&show_icons=true&theme=radical&hide_border=true" alt="Keinji's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitol2&layout=compact&theme=radical&hide_border=true" alt="Keinji's Top Languages" width="48%" />
 </div>
 
 ---
-⚡ *Fun fact: I am proudly an Iskolar ng Laguna!*
+<p align="center">⚡ <em>Fun fact: I am proudly an Iskolar ng Laguna!</em></p>
