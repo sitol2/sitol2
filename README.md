@@ -8,7 +8,7 @@ A Computer Science student uniquely qualified in Intelligent Systems, building A
 - 💡 My expertise bridges backend web development and Artificial Intelligence, with experience deploying models like U-Net, YOLOv11s, and custom BERT.
 - 📫 How to reach me: [keinjivelina15@gmail.com](mailto:keinjivelina15@gmail.com) | [LinkedIn](https://www.linkedin.com/in/keinji-velina-423736326)
 
-### 🌟 Spotlight Project: SafeScape
+### 🌟 Spotlight Project: Berong's E-Learning Platform
 
 **[🌐 Live Site: bfpscberong.app](https://bfpscberong.app)**
 
@@ -30,10 +30,10 @@ An inclusive AI-driven platform for digital fire safety, risk assessment, and co
 ### 🚀 Other Featured Work
 <div align="center">
   <a href="https://github.com/mclangstrong/Admin-and-Exit-Interview/tree/main">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sitol2&repo=Video-Meeting-Project&theme=radical&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mclangstrong&repo=Admin-and-Exit-Interview&theme=radical&hide_border=true" width="48%" />
   </a>
   <a href="https://github.com/mclangstrong/Oral-Detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sitol2&repo=cmsc-311-final-project&theme=radical&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mclangstrong&repo=Oral-Detection&theme=radical&hide_border=true" width="48%" />
   </a>
 </div>
 
@@ -51,10 +51,10 @@ An inclusive AI-driven platform for digital fire safety, risk assessment, and co
 ### 🚀 Featured Projects
 <div align="center">
   <a href="https://github.com/Toneejake/berong-safescape">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Toneejake&repo=berong-safescape&theme=radical&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Toneejake&repo=Fire-Safety-Chatbot&theme=radical&hide_border=true" width="48%" />
   </a>
-  <a href="https://github.com/sitol2/Video-Meeting-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sitol2&repo=Video-Meeting-Project&theme=radical&hide_border=true" width="48%" />
+  <a href="https://github.com/sitol2/Rock-Paper-Scissor-Object-Detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sitol2&repo=Rock-Paper-Scissor-Object-Detection&theme=radical&hide_border=true" width="48%" />
   </a>
 </div>
 
