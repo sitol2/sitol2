@@ -47,6 +47,17 @@ An inclusive AI-driven platform for digital fire safety, risk assessment, and co
   </a>
 </div>
 
+<h3 align="center">🚀 Featured Projects</h3>
+
+<div align="center">
+  <a href="https://github.com/sitol2/Fire-Safety-Chatbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sitol2&repo=Fire-Safety-Chatbot&theme=radical&hide_border=true&v=1" width="48%" />
+  </a>
+  <a href="https://github.com/sitol2/Rock-Paper-Scissor-Object-Detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sitol2&repo=Rock-Paper-Scissor-Object-Detection&theme=radical&hide_border=true&v=1" width="48%" />
+  </a>
+</div>
+
 <h3 align="center">🛠️ My Tech Stack</h3>
 
 <p align="center"><strong>Programming Languages</strong></p>
@@ -86,17 +97,6 @@ An inclusive AI-driven platform for digital fire safety, risk assessment, and co
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=nodesdotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
 </p>
-
-<h3 align="center">🚀 Featured Projects</h3>
-
-<div align="center">
-  <a href="https://github.com/sitol2/Fire-Safety-Chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sitol2&repo=Fire-Safety-Chatbot&theme=radical&hide_border=true&v=1" width="48%" />
-  </a>
-  <a href="https://github.com/sitol2/Rock-Paper-Scissor-Object-Detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sitol2&repo=Rock-Paper-Scissor-Object-Detection&theme=radical&hide_border=true&v=1" width="48%" />
-  </a>
-</div>
 
 <h3 align="center">📊 GitHub Activity & Stats</h3>
 
