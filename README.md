@@ -40,10 +40,10 @@ An inclusive AI-driven platform for digital fire safety, risk assessment, and co
 
 <div align="center">
   <a href="https://github.com/mclangstrong/Admin-and-Exit-Interview/tree/main">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mclangstrong&repo=Admin-and-Exit-Interview&theme=radical&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mclangstrong&repo=Admin-and-Exit-Interview&theme=radical&hide_border=true&v=1" width="48%" />
   </a>
   <a href="https://github.com/mclangstrong/Oral-Detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mclangstrong&repo=Oral-Detection&theme=radical&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mclangstrong&repo=Oral-Detection&theme=radical&hide_border=true&v=1" width="48%" />
   </a>
 </div>
 
