@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=3670A0&center=true&vCenter=true&width=600&lines=Hi,+I'm+Keinji+Velina+👋" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=3670A0&center=true&vCenter=true&width=600&lines=Hi,+I'm+Tol+👋" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -11,7 +11,6 @@
 - 🔭 I’m currently building **Berong's E-Learning Platform**, an AI-driven platform for fire safety.
 - 🌱 I am a determined learner committed to continuous professional growth, currently holding a GDG PUP DataCamp Scholarship.
 - 💡 My expertise bridges backend web development and Artificial Intelligence, with experience deploying models like U-Net, YOLOv11s, and custom BERT.
-- 📫 How to reach me: [keinjivelina15@gmail.com](mailto:keinjivelina15@gmail.com) | [LinkedIn](https://www.linkedin.com/in/keinji-velina-423736326)
 
 <h3 align="center">🌟 Spotlight Project: Berong's E-Learning Platform</h3>
 
